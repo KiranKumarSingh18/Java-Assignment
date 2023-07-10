@@ -1,5 +1,5 @@
 // Word Count - 8
-/*
+// approach 1
 class WordCount{
 	public static void main (String[] args){
 		String s = "   welcome    to    java  world        ";
@@ -43,7 +43,9 @@ class WordCount{
         // System.out.println(ss.length);
 	}
 }
-*/
+
+
+// approach 2
 
 import java.util.*;
 class WordCount
